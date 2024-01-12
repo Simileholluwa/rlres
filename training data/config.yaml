@@ -1,0 +1,8 @@
+
+path: /content/drive/MyDrive/Colab Notebooks/rlres/data
+train: train/images
+val: validation/images
+
+# Classes
+nc: 2
+names: ["plate_number", "license_plate"]
